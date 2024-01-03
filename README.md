@@ -1,11 +1,9 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Abner Ferreira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abner071" alt="abner071" /> </p>
 
-- 🔭 I’m currently working on Eorbit
+- 🔭 I’m currently working on IBM
 
-- 💬 Ask me about **PHP, JavaScript, Jquery, HTML, CSS, SQL**
-
-- 🌱 I’m currently learning ReactJS, React Native
+- 💬 Ask me about **ReactJs, Python, PHP, JavaScript, TypeScript, Jquery, HTML, CSS, SQL**
 
 - 📫 How to reach me **abner.andrade10@gmail.com**
 
